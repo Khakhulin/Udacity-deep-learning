@@ -1,2 +1,3 @@
 # Udacity-deep-learning
-Udacity assignments
+
+The solution of [Udacity deep learning course by Google](https://www.udacity.com/course/deep-learning--ud730).
